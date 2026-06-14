@@ -16,5 +16,7 @@
         "ms-python.debugpy"
       ]
     }
-  }
+  },
+
+  "postCreateCommand": "echo 'Dev container is ready!'"
 }
